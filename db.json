@@ -9,11 +9,5 @@
     { "id": 7, "title": "Nike Woman Running" },
     { "id": 8, "title": "Nike Woman Sportwear" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  
 }
