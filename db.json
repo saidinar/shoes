@@ -1,5 +1,4 @@
-{
-  "data": [
+[
     { "id": 1, "title": "Nike Element 87" },
     { "id": 2, "title": "Nike React Element 87" },
     { "id": 3, "title": "Nike Daybreak Undercover" },
@@ -8,5 +7,5 @@
     { "id": 6, "title": "Nike Man Basketball" },
     { "id": 7, "title": "Nike Woman Running" },
     { "id": 8, "title": "Nike Woman Sportwear" }
-  ],
-}
+  ]
+ 
